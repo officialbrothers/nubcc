@@ -9,7 +9,7 @@ window.addEventListener("scroll", function(){
     parallax(".drone", window.scrollY, 0.3);
     parallax(".drone2", window.scrollY, 0.5);
     parallax(".intro-text1", window.scrollY, 0.4);
-    parallax(".intro-text2", window.scrollY, 0.5);
+    parallax(".intro-text2", window.scrollY, 0.2);
 })
 
 
