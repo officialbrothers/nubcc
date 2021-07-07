@@ -6,7 +6,7 @@ function parallax (element, distance, speed){
 
 window.addEventListener("scroll", function(){
     parallax("header", window.scrollY, 1);
-    parallax(".drone", window.scrollY, 0.3);
+    parallax(".drone", window.scrollY, 0.7);
     parallax(".drone2", window.scrollY, 0.5);
     parallax(".intro-text1", window.scrollY, 0.4);
     parallax(".intro-text2", window.scrollY, 0.2);
