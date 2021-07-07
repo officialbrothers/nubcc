@@ -205,6 +205,10 @@ header{
     position: absolute;
     bottom: 5%;
 }
+    nav ul li a{
+    color: #04588C !important;
+    font-size: 22px;
+}
   }
 
 @media screen and (max-width: 600px) {
@@ -228,6 +232,10 @@ header{
    .club {
     position: absolute;
     bottom: 15%;
+}
+    nav ul li a{
+    color: #04588C !important;
+    font-size: 15px;
 }
 
   }
